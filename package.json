@@ -1,15 +1,19 @@
 {
-  "name": "Webpack-template",
+  "name": "webpack-demo",
   "version": "1.0.0",
   "description": "",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
   "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
     "webpack": "^5.60.0",
     "webpack-cli": "^4.9.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
