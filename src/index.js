@@ -1,3 +1,2 @@
-// import _ from 'lodash';
-// import './style.css';
-// import Icon from './icon.png';
+import './reset.css';
+import './style.css';
