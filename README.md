@@ -35,6 +35,7 @@ To get a local copy up and running follow these simple example steps.
 - npm install
 - Clone the repository to your local machine.
 - npm install webpack webpack-cli --save-dev
+- npm install --save-dev webpack-dev-server
 ```
 
 ### Deployment
