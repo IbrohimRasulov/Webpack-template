@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Webpack-template
 
 > This is a ready webpack template that can be used when you start a new project.
 
