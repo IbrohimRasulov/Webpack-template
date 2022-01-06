@@ -33,22 +33,6 @@
 - [Twitter](https://twitter.com/IbrohimRasu1ov)
 - [LinkedIn](https://www.linkedin.com/in/ibrohim-rasulov-a88352209/)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-Copyright 2021, Ibrohim Rasulov
