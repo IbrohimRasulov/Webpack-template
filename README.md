@@ -12,10 +12,12 @@
 
 > Clone the repository to your local machine and run:
 ```
-- npm install
-- npm install webpack webpack-cli --save-dev
-- npm install --save-dev webpack-dev-server
-- npm install --save-dev style-loader css-loader
+npm install
+npm init -y
+npm install --save-dev webpack
+npm install webpack webpack-cli --save-dev
+npm install --save-dev webpack-dev-server
+npm install --save-dev style-loader css-loader
 ```
 
 ### Deployment
