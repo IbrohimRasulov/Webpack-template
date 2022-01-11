@@ -13,7 +13,6 @@
 > Clone the repository to your local machine and run:
 ```
 npm install
-npm init -y
 npm install --save-dev webpack
 npm install --save lodash
 npx webpack --config webpack.config.js
