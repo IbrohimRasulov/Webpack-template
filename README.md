@@ -13,6 +13,7 @@
 > Clone the repository to your local machine and run:
 ```
 npm install
+npm audit fix --force
 npm install --save-dev webpack
 npm install --save lodash
 npx webpack --config webpack.config.js
